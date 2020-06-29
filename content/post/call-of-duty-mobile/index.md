@@ -6,7 +6,7 @@ featured: false
 categories:
   - Battle Royale Multiplayer PVP Online
 image:
-  filename: featured
+  filename: img_20200617_185738_872.jpg
   focal_point: Smart
   preview_only: true
 ---
