@@ -5,9 +5,9 @@ date: 2020-06-29T12:27:39.333Z
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
+  filename: img_20200618_222312_368.jpg
+  focal_point: Top
+  preview_only: true
 ---
 Asphalt 8: Airborne - Fun Real Car Racing Game by Gameloft SE
 com.gameloft.android.ANMP.GloftA8HM
