@@ -26,7 +26,7 @@ subtitle = ""
   gradient_end = "DarkBlue"
 
   #Background image.
-  image = "image.jpg"  # Name of image in `static/img/`.
+  image = "gamerstore.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,6 +50,7 @@ subtitle = ""
 
 Welcome to **Gamerstore** site!
 
-Follow our social media pages on [Twitter](https://sourcethemes.com/academic/docs/get-started/) and [Facebook](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+Download your Android games and premium apps straight from this site. PC Games are also available. Utilize the search button
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+Follow our social media pages on [Twitter](https://sourcethemes.com/academic/docs/get-started/) and [Telegram](https://t.me/joinchat/AAAAAEa7fbcQcKqgG0k_TQ) for updates and feedback.
+
