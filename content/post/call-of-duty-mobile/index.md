@@ -4,8 +4,10 @@ subtitle: An intense game entry into the battle Royale category
 date: 2020-06-29T16:07:08.881Z
 draft: false
 featured: false
-categories:
+tags:
   - Battle Royale Multiplayer PVP Online
+categories:
+  - ""
 image:
   filename: img_20200617_185738_872.jpg
   focal_point: Smart
@@ -19,7 +21,6 @@ Version: 1.0.15(982)
 Updated: Jun 5, 2020
 Size: 2.22GB
 Call Of Duty Mobile Season 7: RADIOACTIVE AGENT. Brand new updates with the much anticipated Battle Royale map expansion - 7 new zones, new BR class, and new Tank. Ghost and Price will be equipped with new gear to battle radioactive danger. Unlock new weapons to play in Tunisia and fan-favorite Gulag maps, plus Attack of the Undead mode.
-Website: https://apkdl.net/en/com.activision.callofduty.shooter
 
 Android version: 8.0
 CPU: armeabi-v7a
