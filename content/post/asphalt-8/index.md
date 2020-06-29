@@ -9,6 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+> ![](img_20200618_222312_368.jpg)
 
-
-![](img_20200618_222312_368.jpg)
+*
