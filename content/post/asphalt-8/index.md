@@ -4,10 +4,12 @@ subtitle: ""
 date: 2020-06-29T12:27:39.333Z
 draft: false
 featured: false
+tags:
+  - Racing Offline Multiplayer
 image:
   filename: img_20200618_222312_368.jpg
   focal_point: Top
-  preview_only: true
+  preview_only: false
 ---
 Asphalt 8: Airborne - Fun Real Car Racing Game by Gameloft SE
 com.gameloft.android.ANMP.GloftA8HM
