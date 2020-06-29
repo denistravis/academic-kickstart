@@ -1,5 +1,6 @@
 ---
 title: Call of Duty Mobile
+subtitle: An intense game entry into the battle Royale category
 date: 2020-06-29T16:07:08.881Z
 draft: false
 featured: false
