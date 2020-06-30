@@ -72,20 +72,19 @@ Size: 1.67GB
 1. **Miramar Update**
    Additional resources have been added to the map, including items and improved graphics. 
    Added a race track and Golden Mirado to show off your skills in the desert!
-2. **Sandstormorms**
+2. **Sandstorm**
       Prepare well to survive in the extreme climate!
       A sandstorm theme is waiting for you to unlock in the lobby!
 
-   3.Cheer Park
+   1. 3
 
 Cheer
-Try out this chill 20 player area where you can chat, roast chicken **
-oid
+Try out this chill 20 player area where you can chat, roast chicken 
+**oid
 S﻿pecifications**
 
 oidoid
 CPU: 
-
 
 **com.tencent.ig.apk \[49.62MB]**
 https://checker.in/go/4618697
