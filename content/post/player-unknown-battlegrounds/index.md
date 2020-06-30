@@ -2,6 +2,9 @@
 title: Player Unknown Battlegrounds
 date: 2020-06-30T13:26:51.354Z
 summary: >-
+  ![PUBG Mobile](img_20200618_003711_775.jpg)
+
+
   PUBG MOBILE - Mad Miramar by Tencent Games
 
   com.tencent.ig
@@ -14,18 +17,13 @@ summary: >-
 
   Update News:
 
+
   1. Miramar Update
-
-  Additional resources have been added to the map, including items and improved graphics. 
-
-  Added a race track and Golden Mirado to show off your skills in the desert!
-
+     Additional resources have been added to the map, including items and improved graphics. 
+     Added a race track and Golden Mirado to show off your skills in the desert!
   2. Sandstorm
-
-  Prepare well to survive in the extreme climate!
-
-  A sandstorm theme is waiting for you to unlock in the lobby!
-
+     Prepare well to survive in the extreme climate!
+     A sandstorm theme is waiting for you to unlock in the lobby!
 
   Website: https://apkdl.net/en/com.tencent.ig
 
