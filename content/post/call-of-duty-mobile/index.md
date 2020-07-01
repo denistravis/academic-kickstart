@@ -30,10 +30,6 @@ What'sBr
 and
 
 Brand newupdates with the much anticipated Battle Royale map expansion  
-  ﻿
-  
-  
-  
 
 7 new zones, new BR class, and new Tank. Ghost and Price will be equipped with new gear to battle radioactive danger
 
@@ -64,7 +60,8 @@ https://checker.in/go/4593306
 
 ## How to install .obb file?
 
-1.Go to mfiler and navigate to this folder local storage /Android / obb  to \
+1.Go to file sand navigate to this folder local storage /Android / obb  
+to
 2.Check if there is afolder named com.activision.callofduty.shooter if not, create a folder with name com.activision.callofduty.shooter\
 o\
 3.Move patch.982.com.activision.callofduty.shooter.obb file into local storage / Android / obb / com.activision.callofduty.shooter folder
