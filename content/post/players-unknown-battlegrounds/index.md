@@ -33,7 +33,7 @@ Update News:
 
    **Downloads**
 
-Android version: 8.0
+Android devices
 CPU: arm64-v8a
 
 com.tencent.ig.apk \[49.62MB]
