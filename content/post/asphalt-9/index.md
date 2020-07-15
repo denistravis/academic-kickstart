@@ -8,7 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-#### Asphalt 9: Legends - Epic Car Action Racing Game by Gameloft SE
+# Asphalt 9: Legends - Epic Car Action Racing Game by Gameloft SE
+
 com.gameloft.android.ANMP.GloftA9HM
 Version: 2.2.2a(22221)
 Updated: May 5, 2020
@@ -22,6 +23,7 @@ LAMBORGHINI SEASON
 Take a trip through Lamborghini history with 4 legendary vehicles!
 
 ## SEASON PASS
+
 Boost your experience with the Lamborghini Season Pass to unlock exclusive content!
 
 N
