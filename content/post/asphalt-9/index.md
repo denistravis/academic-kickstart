@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](img_20200618_003659_743.jpg)
+
 # Asphalt 9: Legends - Epic Car Action Racing Game by Gameloft SE
 
 com.gameloft.android.ANMP.GloftA9HM
